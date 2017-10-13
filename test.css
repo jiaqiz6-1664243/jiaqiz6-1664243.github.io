@@ -1,0 +1,80 @@
+/*I made the bord of h1 dotted, the letter space 3px, add a red shadow, h3 underlined, and added a backgroung color to the link. */
+#Header {
+	border: solid 8px black;
+	border-style: dotted;
+	width: 500px;
+	margin-left: auto;
+	margin-right: auto;
+	margin-bottom: 10px;
+	text-align: center;
+}
+
+#LeftNav{
+	width: 400px;
+	margin-left: auto;
+	margin-right: auto;
+	margin-bottom: 10px;
+	float: left;
+	border:solid 8px black;
+	text-align: center;
+	padding-bottom: 8px;
+}
+
+#Content{
+	width: 700px;
+	margin-left: auto;
+	margin-right: auto;
+	margin-bottom: 10px;
+	border:solid 8px black;
+	text-align: center;
+	padding: 15px;
+}
+
+#Footer{
+	border:solid 8px black;
+	text-align: center;	
+}
+
+ul {
+	list-style-type: none;
+	padding-left: 0px;
+}
+
+#Header h1{
+	font-size: 60px;
+	font-family: "Passion One";
+	color: #FFBC00;
+	font-weight: bold;
+	letter-spacing: 3px;
+	text-shadow: 3px 2px red;
+}
+
+p {
+	color: #ffffff;
+	font-family: arial;
+}
+
+
+h3 {
+	color: #FFBC00;
+	font-size: 40px;
+	font-family: Passion One;
+	margin-bottom: 0px;
+	text-decoration: underline;
+}
+
+div {
+	background-color: #8E41D5;
+
+}
+
+body {
+	background-image: url('dark_wood.png');
+}
+
+a {
+	color: white;
+	font-weight: bold;
+	font-size: 24px;
+	background-color: hotpink;
+}
