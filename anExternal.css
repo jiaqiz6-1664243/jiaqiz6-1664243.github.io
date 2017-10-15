@@ -1,0 +1,41 @@
+h1{
+	text-align: center;
+	color: white;
+}
+
+.first{
+	text-align: center;
+	font-style: oblique;
+	color: white;
+	border-style: dotted;
+}
+
+.second{
+	text-align: center;
+	font-style: italic;
+	color: white;
+}
+
+.third{
+	text-align: center;
+	color:white;
+}
+
+body {
+	background-color: #084B8A;
+}
+
+.forth {
+    display:block;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 10px;
+}
+
+.fifth {
+	margin-left: 20px;
+    margin-right: 20px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    float: right;
+}
